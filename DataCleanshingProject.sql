@@ -198,4 +198,4 @@ WHERE total_laid_off IS NULL
 AND percentage_laid_off IS NULL;
 
 SELECT * 
-FROM world_layoffs.layoffs_staging2;
+FROM layoffs_stagging2;
